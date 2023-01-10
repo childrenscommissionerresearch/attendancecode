@@ -1,0 +1,1 @@
+The analysis script reads in daily attendance data held by schools, cleans this data and summarises the rate of persistent absence and rate of persistent unauthorised absence by year and previous attendance history.
